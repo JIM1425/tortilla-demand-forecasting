@@ -4,6 +4,9 @@ Machine learning project developed for a small tortilla distribution business to
 each client. The goal is to reduce product waste caused by overproduction and support daily production planning 
 using historical data instead of manual estimation.
 
+## Stack
+
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost` · `RapidFuzz` · `Streamlit` · `Plotly`
 
 ## Problem
 
